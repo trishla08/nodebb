@@ -67,3 +67,5 @@ nodebb@1.4.3 /path/to/nodebb
 If you have installed NodeBB via GitHub clone, are familiar with utilising git, and are willing to help us narrow down the specific commit that causes a bug, consider running `git bisect`.
 
 A full guide can be found here: [Debugging with Git/Binary Search](http://git-scm.com/book/en/Git-Tools-Debugging-with-Git#Binary-Search)
+
+--trishla
